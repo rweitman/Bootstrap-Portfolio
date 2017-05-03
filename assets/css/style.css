@@ -1,0 +1,77 @@
+#name {
+	background-color:#4aaaa5; 
+	width:160px; 
+	height:60px;
+	text-align:center;
+	color:white;
+	border: 1px solid #cccccc;
+}
+
+
+p {
+	color:black;
+}
+
+
+#links {
+	width:250px; 
+	height:60px;
+	float:right;
+}
+
+#about {
+	height:auto;
+	width:500px;
+	color: #4aaaa5;
+	border: 1px solid #cccccc;
+}
+
+h3 {
+	color: #4aaaa5;
+}
+
+#contact {
+	border: 1px solid #cccccc; 
+	height:auto; 
+	width: 600px;
+	color:black;
+}
+
+#portfolio {
+	border: 1px solid #cccccc; 
+	height:auto; 
+	width: 700px;
+	color:black;
+}
+
+#photo {
+	padding-right:5px;
+	width:100px;
+	height:100px;
+}
+
+#connect {
+	margin-left:10px; 
+	width:300px;
+	text-align:center;
+	color: #4aaaa5;
+	border: 1px solid #cccccc;
+}
+
+#foot {
+	height:90px; 
+	background-color: #666666;
+	text-align:center;
+	color:white;
+}
+
+
+#press {
+	background: #4aaaa5; 
+	color:#fff; 
+	font-size:18px;
+}
+
+textarea {
+	width:560px;
+}
