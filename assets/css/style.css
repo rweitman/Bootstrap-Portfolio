@@ -1,5 +1,6 @@
 body{
-	 background-color:orange;
+	 background-image: url(../images/Grey-Background.jpg);
+  	background-repeat: repeat;
 }
 
 #high {
@@ -97,9 +98,6 @@ textarea {
 }
 
 @media only screen and (max-width: 980px) {
-body {
-	background-color:purple;
-}
 #name {
 	margin-left: 50px;
 	font-size: 20px;
@@ -124,9 +122,6 @@ body {
 
 }
 @media only screen and (max-width: 768px) {
-
-body {
-	background-color:blue;}
 #high {
 	width:100%;
 }
@@ -158,9 +153,6 @@ body {
 
 }
 @media only screen and (max-width: 640px) {
-  
- body {
- 	background-color:green;}
 #name {
 	width:100%;
 	margin-left:0px;
