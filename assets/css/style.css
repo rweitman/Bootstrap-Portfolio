@@ -12,7 +12,7 @@ body{
 
 #name {
 	padding-top:15px;
-	margin-left: 40px;
+	/*margin-left: 40px;*/
 	background-color:#4aaaa5; 
 	width:160px; 
 	height:70px;
@@ -126,7 +126,7 @@ textarea {
 	width:100%;
 }
 #name {
-	margin-left: 50px;
+	/*margin-left: 50px;*/
 	font-size: 20px;
 	margin-right: 100px;
 }
@@ -155,7 +155,7 @@ textarea {
 @media only screen and (max-width: 640px) {
 #name {
 	width:100%;
-	margin-left:0px;
+	/*margin-left:0px;*/
 }
 #links {
 	width:100%;
