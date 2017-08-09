@@ -6,3 +6,6 @@ The Bootstrap Portfolio is an altered version of the "Responsive Portfolio." Boo
 
 Responsive Portfolio:
 [Click Here to Access](https://github.com/rweitman/Responsive-Portfolio)
+
+Basic Portfolio:
+[Click Here to Access](https://github.com/rweitman/Basic-Portfolio)
